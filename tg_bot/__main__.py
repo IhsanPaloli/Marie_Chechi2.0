@@ -29,8 +29,6 @@ PM_START_TEXT = """
 For more Details Click /help
 
 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : [ɪʜsᴀɴ_ᴘᴀʟᴏʟɪ🎓](https://t.me/Ihsan_paloli)
-(InlineKeyboardButton(Text=മുതലാളി 💖(url=https://t.me/Ihsan_paloli)
-
 
 """
 
