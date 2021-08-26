@@ -34,7 +34,7 @@ For more Details Click /help
             InlineKeyboardButton(text="മുതലാളി 🎩",
 url="https://t.me/Ihsan_paloli"),
             InlineKeyboardButton(text="മുതലാളി 🎩",
-url="https://t.me/Ihsan_paloli" ),
+url="https://t.me/Ihsan_paloli"),
      ],
 """
 
