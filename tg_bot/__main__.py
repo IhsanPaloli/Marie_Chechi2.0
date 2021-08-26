@@ -32,9 +32,9 @@ For more Details Click /help
  
 [
             InlineKeyboardButton(text="മുതലാളി 🎩",
-url="https://t.me/BXSupport"),
+url="https://t.me/Ihsan_paloli"),
             InlineKeyboardButton(text="മുതലാളി 🎩",
-url="https://t.me/BXSupport"),
+url="https://t.me/Ihsan_paloli"),
      ],
 """
 
